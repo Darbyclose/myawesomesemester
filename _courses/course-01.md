@@ -1,7 +1,7 @@
 ---
 course_number: 1
 course_code: "COMM XXXX"
-course_title: "Course Title 1"
+course_title: "Senior Seminar - The Human Communicator in an Era of AI"
 meeting_time: "MWF 10:10–11:00 AM"
 location: "Building Room ###"
 instructor_name: "Professor Name"
