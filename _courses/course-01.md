@@ -2,9 +2,9 @@
 course_number: 1
 course_code: "COMM XXXX"
 course_title: "Senior Seminar - The Human Communicator in an Era of AI"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+meeting_time: "MW 2:30–3:45 PM"
+location: "Building Room 233"
+instructor_name: "Professor Carlos Evia"
 instructor_title: "Assistant Professor"
 instructor_department: "Department Name"
 ---
