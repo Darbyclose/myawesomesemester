@@ -1,10 +1,10 @@
 ---
 course_number: 2
 course_code: "COMM XXXX"
-course_title: "Course Title 2"
-meeting_time: "TR 9:30–10:45 AM"
+course_title: "Social Media Theory and Practice"
+meeting_time: "MW 4:00–5:15PM"
 location: "Building Room ###"
-instructor_name: "Professor Name"
+instructor_name: "Justin Combs, Ph.D. "
 instructor_title: "Associate Professor"
 instructor_department: "Department Name"
 ---
