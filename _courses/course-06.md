@@ -6,7 +6,6 @@ location	Building Room ###
 instructor_name	Professor Name
 instructor_title	Senior Instructor
 instructor_department	Department Name
-This is a placeholder page. Replace the front matter above with this course's real course code, title, meeting time, location, and your professor's name, title, and department. Then replace the section headings and body text below with your own research.
 
 About this course
 Write a short paragraph about the course itself: what it covers, why you're taking it, and what you're hoping to get out of it this semester.
