@@ -3,6 +3,16 @@ layout: home
 title: Home
 ---
 
-<div class="home-intro">
-<p>Hi! I’m a senior at Virginia Tech majoring in Communication with a minor in Sociology. This semester, I’m taking classes that cover everything from social media and health communication to Appalachian communities and popular music. This site is a look at what I’m learning, but also a chance to learn more about the professors teaching me along the way..</p>
+
+  <h2>Senior at Virginia Tech</h2>
+
+  <p><strong>Communication Major • Sociology Minor</strong></p>
+
+  <p>
+    Welcome to my Fall 2026 semester! This site is a look at the classes I'm taking,
+    what I'm learning, and the professors teaching me along the way.
+  </p>
+
+  <a class="home-button" href="{{ '/courses/' | relative_url }}">Explore My Courses →</a>
+
 </div>
