@@ -9,11 +9,6 @@ instructor_title: "Mellon Postdoctoral Associate"
 instructor_department: "Department of Religion and Culture"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
-
 ## About this course
 
 Appalachian Communities looks at the history, culture, and people of Appalachia and what it really means to be part of an Appalachian community. We talk about identity, stereotypes, social class, art, and the different issues that have shaped the region. I am taking this class for my Sociology minor, but I also thought it would be interesting since I have lived in Southwest Virginia for the past few years. I am hoping to learn more about the communities and history of the area around Virginia Tech.
