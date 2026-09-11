@@ -483,3 +483,88 @@ a:hover {
   transform: translateY(-7px);
   box-shadow: 0 12px 25px rgba(227, 62, 140, 0.18);
 }
+
+/* ----- Courses page sparkles ----- */
+
+.course-sparkles {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.course-sparkles span {
+  position: absolute;
+  color: #e83e8c;
+  font-size: 28px;
+  opacity: 0.45;
+  animation: courseTwinkle 3s ease-in-out infinite;
+}
+
+.course-sparkles span:nth-child(1) {
+  top: 18%;
+  left: 6%;
+}
+
+.course-sparkles span:nth-child(2) {
+  top: 28%;
+  right: 8%;
+  animation-delay: 0.7s;
+}
+
+.course-sparkles span:nth-child(3) {
+  top: 42%;
+  left: 12%;
+  animation-delay: 1.4s;
+}
+
+.course-sparkles span:nth-child(4) {
+  top: 52%;
+  right: 15%;
+  animation-delay: 0.3s;
+}
+
+.course-sparkles span:nth-child(5) {
+  top: 65%;
+  left: 5%;
+  animation-delay: 1.8s;
+}
+
+.course-sparkles span:nth-child(6) {
+  top: 75%;
+  right: 7%;
+  animation-delay: 1s;
+}
+
+.course-sparkles span:nth-child(7) {
+  top: 85%;
+  left: 20%;
+  animation-delay: 2.2s;
+}
+
+.course-sparkles span:nth-child(8) {
+  top: 90%;
+  right: 25%;
+  animation-delay: 0.5s;
+}
+
+@keyframes courseTwinkle {
+  0%, 100% {
+    transform: scale(0.7) rotate(0deg);
+    opacity: 0.25;
+  }
+
+  50% {
+    transform: scale(1.4) rotate(20deg);
+    opacity: 0.85;
+  }
+}
+
+/* Keep the course information above the sparkles */
+.course-directory,
+.page > h1,
+.page > p {
+  position: relative;
+  z-index: 1;
+}
