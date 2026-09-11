@@ -5,13 +5,13 @@ permalink: /courses/
 ---
 <div class="course-sparkles">
   <span>✦</span>
-  <span>✧</span>
   <span>✦</span>
-  <span>✧</span>
   <span>✦</span>
-  <span>✧</span>
   <span>✦</span>
-  <span>✧</span>
+  <span>✦</span>
+  <span>✦</span>
+  <span>✦</span>
+  <span>✦</span>
 </div>
 
 # My Fall 2026 Courses
