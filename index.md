@@ -3,6 +3,9 @@ layout: home
 title: Home
 ---
 
+<div class="home-intro">
+
+  <h1>Hi, I'm Darby! 💗</h1>
 
   <h2>Senior at Virginia Tech</h2>
 
