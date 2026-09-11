@@ -3,7 +3,7 @@ course_number: 2
 course_code: "JMC 4264"
 course_title: "Social Media Theory and Practice"
 meeting_time: "MW 4:00–5:15PM"
-location: "Building Room ###"
+location: "Williams Hall 134"
 instructor_name: "Justin Combs, Ph.D. "
 instructor_title: "Advertising Professor of Practice"
 instructor_department: "School of Communication"
