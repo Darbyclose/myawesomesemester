@@ -9,11 +9,6 @@ instructor_title: "Professor"
 instructor_department: "Communication"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
-
 ## About this course
 
 This is my Senior Seminar class, which I need to graduate. All seniors in the School of Communication must complete a senior seminar to fulfill their graduation requirements. I am hoping to better understand AI and how to use the technology moving forward in my career. AI is not going anywhere, and although I am hesitant, I need to learn how to use it properly, professionally, and safely. 
