@@ -4,12 +4,10 @@
 # ------------------------------------------------------------------
 
 title: My Awesome Semester
-tagline: A COMM major's course lineup, one class at a time
+tagline: My Fall 2026 semester at Virginia Tech
 description: >-
-  A Jekyll template for building a "My Awesome Semester" course-and-teacher
-  site. Each course gets its own page with the class details plus a profile
-  of the professor teaching it -- their research interests, publications,
-  and service and outreach work. Replace this description with your own.
+   A look at my Fall 2026 courses at Virginia Tech and the professors
+  teaching them.
 
 # GitHub Pages project-site settings.
 # TODO: set `url` to your own GitHub Pages domain (e.g. "https://<your-username>.github.io"),
@@ -17,8 +15,8 @@ description: >-
 url: "https://Darbyclose.github.io"
 baseurl: "/myawesomesemester"
 
-author: Your Name
-email: your-email@vt.edu
+author: Darby Close
+email: Darbyclose@vt.edu
 
 # ------------------------------------------------------------------
 # Build settings
