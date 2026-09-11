@@ -311,3 +311,23 @@ a {
 a:hover {
   color: #ff4f9a;
 }
+
+a:hover {
+  color: #ff4f9a;
+}
+
+
+/* ----- Homepage landing section ----- */
+
+.home-intro {
+  max-width: 900px;
+  margin: 70px auto 90px;
+  padding: 55px 45px;
+  text-align: center;
+  background: linear-gradient(135deg, #ffd9ea, #efe1ff, #dff1ff);
+  border: 2px solid #ff9fc8;
+  border-radius: 28px;
+  box-shadow: 0 10px 30px rgba(122, 36, 80, 0.12);
+}
+
+/* then the rest of the code I gave you */
