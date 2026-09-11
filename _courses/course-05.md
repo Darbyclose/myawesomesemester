@@ -1,29 +1,23 @@
 ---
 course_number: 5
-course_code: "COMM XXXX"
-course_title: "Course Title 5"
-meeting_time: "MW 3:30–4:45 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Senior Instructor"
-instructor_department: "Department Name"
+course_code: "SOC 4114"
+course_title: "The Sociology of Popular Music"
+meeting_time: "TR 11:00 AM–12:15 PM "
+location: "Architecture Annex 114"
+instructor_name: "William J. Weikart"
+instructor_title: "Instructor"
+instructor_department: "Department of Sociology "
 ---
-
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+The Sociology of Popular Music looks at music as more than just entertainment and focuses on how it connects to society, culture, race, class, and different points in history. We also look at how the music industry works and how there is a lot more behind popular music than just the artists themselves. I am taking this class for my Sociology minor, but I also really like music, so I thought it would be an interesting way to combine the two. I am hoping to learn more about where different types of music came from and how music has changed along with society.
 
-## About Professor Name
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+## About William Weikart
+
+William J. Weikart is an Instructor in Virginia Tech's Department of Sociology. He teaches sociology courses at Virginia Tech, including The Sociology of Popular Music. His classes examine society and culture through a sociological perspective and give students a chance to think about everyday experiences, like music, in a different way.
+
 
 ### Research interests
 
@@ -33,14 +27,8 @@ areas in your own words.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+Not much information is publicly available about Professor Weikart's specific research interests. His teaching includes sociology and popular music, with a focus on understanding music within its larger social and cultural context.
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Outside of teaching, Dr. Weikart is also involved with WUVT, Virginia Tech's student-run college radio station, where he is a DJ. His show highlights experimental music and gives listeners a chance to hear music they might not normally come across. This connects really well with his Sociology of Popular Music course because his involvement with music goes beyond just teaching it in the classroom.
