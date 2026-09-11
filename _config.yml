@@ -3,8 +3,8 @@
 # Replace these values with your own before publishing.
 # ------------------------------------------------------------------
 
-title: My Awesome Semester
-tagline: My Fall 2026 semester at Virginia Tech
+title: "My Awesome Semester"
+tagline: "My Fall 2026 semester at Virginia Tech"
 description: >-
    A look at my Fall 2026 courses at Virginia Tech and the professors
   teaching them.
@@ -15,8 +15,8 @@ description: >-
 url: "https://Darbyclose.github.io"
 baseurl: "/myawesomesemester"
 
-author: Darby Close
-email: Darbyclose@vt.edu
+author: "Darby Close"
+email: "Darbyclose@vt.edu"
 
 # ------------------------------------------------------------------
 # Build settings
