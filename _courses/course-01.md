@@ -5,8 +5,8 @@ course_title: "Senior Seminar - The Human Communicator in an Era of AI"
 meeting_time: "MW 2:30–3:45 PM"
 location: "McBryde 233"
 instructor_name: "Professor Carlos Evia"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+instructor_title: "Professor"
+instructor_department: "Communication"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
@@ -16,31 +16,34 @@ research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This is my Senior Seminar class, which I need to graduate. All seniors in the School of Communication must complete a senior seminar to fulfill their graduation requirements. I am hoping to better understand AI and how to use the technology moving forward in my career. AI is not going anywhere, and although I am hesitant, I need to learn how to use it properly, professionally, and safely. 
+
 
 ## About Professor Name
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Carlos Evia Puerto serves as Associate Dean of Strategic Initiatives and Chief Technology Officer in the College of Liberal Arts and Human Sciences, as well as a professor in the School of Communication. He has his PhD in Technical Communication and Rhetoric from 
+Texas Tech University, a Master's in Computer Systems from Universidad La Salle and 
+a Bachelor's in Communication Science from Instituto de Ciencias Sociales. He is a father of one child who enjoys music, so they listen to K-pop and go to festivals and concerts together. 
+
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Evia focuses on planning and developing solutions for workplace communication problems, particularly those involving multicultural audiences. These solutions are technology-based and include technical content that follows the Darwin Information Typing Architecture.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
+- Technical Communication and the Discipline of Content Considerations for Research (Sept. 2025)
+- Training and Career Readiness (March 2024)
+- Content Operations from Start to Scale (December 2018)
 
-- Citation or title of a representative publication
-- Citation or title of another publication
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+A few of the many outreach programs Professor Evia is involved in include:
+
+Cross-Disciplinary Integration: Dr. Evia leads the college's Tech for Humanity (TfH) initiative, a cross-disciplinary effort that embeds technology fluency across all CLAHS majors and connects humanistic expertise to modern tech challenges.
+
+El Centro, Virginia Tech's Hispanic and Latinx Cultural and Community Center, where he engaged directly with student mentoring and community building.
+
+Beyond campus, he is a co-administrator of the Hispanics in Computing group on LinkedIn, helping build professional networks and mentorship pipelines for Hispanic professionals in technical fields
+
