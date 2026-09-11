@@ -472,3 +472,14 @@ a:hover {
   position: relative;
   z-index: 1;
 }
+
+/* ----- Cute course card hover ----- */
+
+.course-list__item {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.course-list__item:hover {
+  transform: translateY(-7px);
+  box-shadow: 0 12px 25px rgba(227, 62, 140, 0.18);
+}
