@@ -1,12 +1,12 @@
 ---
 course_number: 2
-course_code: "COMM XXXX"
+course_code: "JMC 4264"
 course_title: "Social Media Theory and Practice"
 meeting_time: "MW 4:00–5:15PM"
 location: "Building Room ###"
 instructor_name: "Justin Combs, Ph.D. "
-instructor_title: "Associate Professor"
-instructor_department: "Department Name"
+instructor_title: "Advertising Professor of Practice"
+instructor_department: "School of Communication"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
@@ -16,31 +16,22 @@ research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Social Media Theory and Practice focuses on how social media works as both a form of communication and a tool for brands and organizations. The course examines social media platforms, audiences, content, strategy, and how people interact with media online. I am taking this course because I already work with social media, but I want to better understand the strategy and research behind it instead of only knowing how to create and post content. I hope to leave the class with skills I can use in communications, PR, and social media work.
 
-## About Professor Name
+## About Justin Combs
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Justin Combs is an Advertising Professor of Practice in Virginia Tech's School of Communication. Before coming to Virginia Tech, he worked professionally in advertising and strategy, including as a Senior Strategist at Blue Chip Worldwide and Director of Audience at BCH Agency. He has worked with brands including Arby's, White Castle, Bausch + Lomb, the Kentucky Lottery, and Bardstown Bourbon Company. At Virginia Tech, he frequently teaches courses including Advertising Ethics, Copywriting and Brand Storytelling, and Campaigns.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Combs' academic and professional interests focus on advertising, strategic communication, and how audiences respond to messages. His research has included social cognitive theory, brand placement, interactive advertising, and advertising effectiveness. His professional work also focuses heavily on understanding audiences and using behavioral insights to create strategic messages that reach people through the right channels.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
+“Advertising Agency Operating Efficiency”
+“An Analysis of Media Violence in Commercials Aired During the Telecasts of Sports Events”
 
-- Citation or title of a representative publication
-- Citation or title of another publication
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Combs is involved with the advertising community outside of his teaching at Virginia Tech. He is active in AAF Roanoke and serves as an adviser for Virginia Tech's AAF student chapter. His involvement connects students with the professional advertising industry and gives them opportunities to learn more about advertising outside of the classroom.
