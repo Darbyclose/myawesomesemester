@@ -4,7 +4,5 @@ title: Home
 ---
 
 <div class="home-intro">
-<p>Welcome! This is a template for a "My Awesome Semester" course-and-teacher site. Replace this
-introduction with your own &mdash; a couple of sentences about your major, this semester, and what
-your friends and family are about to learn about your professors.</p>
+<p>Hi! I’m a senior at Virginia Tech majoring in Communication with a minor in Sociology. This semester, I’m taking classes that cover everything from social media and health communication to Appalachian communities and popular music. This site is a look at what I’m learning, but also a chance to learn more about the professors teaching me along the way..</p>
 </div>
