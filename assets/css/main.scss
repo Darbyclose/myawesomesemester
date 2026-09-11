@@ -221,3 +221,93 @@ a:hover { color: var(--color-accent); }
 @media (max-width: 600px) {
   .course__title { font-size: 1.6rem; }
 }
+
+
+/* ----- Darby's colorful semester theme ----- */
+
+body {
+  background: #fff0f7;
+}
+
+/* Header */
+.site-header {
+  background: #ffd6e8;
+  border-bottom: 3px solid #ff69a6;
+}
+
+.site-title {
+  color: #7a2450;
+}
+
+.site-nav a {
+  color: #7a2450;
+}
+
+.site-nav a:hover {
+  color: #ff3f8e;
+}
+
+/* Main intro */
+.page {
+  padding-top: 45px;
+}
+
+.page h1,
+.page h2,
+.page h3 {
+  color: #7a2450;
+}
+
+/* Course section heading */
+.course-directory__heading {
+  color: #7a2450;
+  border-bottom: 3px solid #ff8fbd;
+  padding-bottom: 12px;
+}
+
+/* Turn each course into a card */
+.course-list {
+  border: none;
+  padding: 0;
+}
+
+.course-list__item {
+  background: #ffffff;
+  border: 2px solid #ffc1dc;
+  border-radius: 18px;
+  padding: 22px;
+  margin: 18px 0;
+  box-shadow: 0 5px 12px rgba(122, 36, 80, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Cute hover effect */
+.course-list__item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(122, 36, 80, 0.16);
+}
+
+/* Course codes */
+.course-list__code {
+  color: #e83e8c;
+  font-weight: bold;
+}
+
+/* Course titles */
+.course-list__title {
+  color: #6b3155;
+}
+
+/* Professor/time/location */
+.course-list__meta {
+  color: #8b6079;
+}
+
+/* Links */
+a {
+  color: #d63384;
+}
+
+a:hover {
+  color: #ff4f9a;
+}
